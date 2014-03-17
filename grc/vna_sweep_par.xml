@@ -1,0 +1,31 @@
+<block>
+  <name>Sweep par</name>
+  <key>vna_sweep_par</key>
+  <category>VNA</category>
+  <import>import vna</import>
+  <make>vna.sweep_par($rate, $start_freq, $stop_freq, $num_steps)</make>
+  <param>
+    <name>Rate</name>
+    <key>rate</key>
+    <type>float</type>
+  </param>
+  <param>
+    <name>Start_freq</name>
+    <key>start_freq</key>
+    <type>float</type>
+  </param>
+  <param>
+    <name>Stop_freq</name>
+    <key>stop_freq</key>
+    <type>float</type>
+  </param>
+  <param>
+    <name>Num_steps</name>
+    <key>num_steps</key>
+    <type>int</type>
+  </param>
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>

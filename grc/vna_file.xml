@@ -1,0 +1,17 @@
+<block>
+  <name>File</name>
+  <key>vna_file</key>
+  <category>VNA</category>
+  <import>import vna</import>
+  <make>vna.file($filename)</make>
+  <param>
+    <name>Filename</name>
+    <key>filename</key>
+    <type>string</type>
+  </param>
+  <sink>
+    <name>in</name>
+    <type>float</type>
+    <nports>2</nports>
+  </sink>
+</block>

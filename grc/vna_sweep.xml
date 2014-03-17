@@ -1,0 +1,11 @@
+<block>
+  <name>Sweep</name>
+  <key>vna_sweep</key>
+  <category>VNA</category>
+  <import>import vna</import>
+  <make>vna.sweep()</make>
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>
