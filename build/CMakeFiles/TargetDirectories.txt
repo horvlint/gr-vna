@@ -1,9 +1,0 @@
-/home/balint/workspace/gr-vna/build/swig/CMakeFiles/_vna_swig.dir
-/home/balint/workspace/gr-vna/build/swig/CMakeFiles/_vna_swig_swig_tag.dir
-/home/balint/workspace/gr-vna/build/lib/CMakeFiles/gnuradio-vna.dir
-/home/balint/workspace/gr-vna/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
-/home/balint/workspace/gr-vna/build/python/CMakeFiles/pygen_python_57956.dir
-/home/balint/workspace/gr-vna/build/swig/CMakeFiles/pygen_swig_3aafe.dir
-/home/balint/workspace/gr-vna/build/lib/CMakeFiles/test-vna.dir
-/home/balint/workspace/gr-vna/build/CMakeFiles/uninstall.dir
-/home/balint/workspace/gr-vna/build/swig/CMakeFiles/vna_swig_swig_doc.dir
